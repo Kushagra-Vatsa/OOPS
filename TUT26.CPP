@@ -1,3 +1,12 @@
+/* 
+Properties of Friend Function :
+    Not in scope of class
+    It cannot be called from object of the class
+    Can be invoked directly without the help of any object 
+    Usually contains objects as arguments 
+    Can be declared inside public or private parts
+    It cannot access the members directly by their names and need need objects  
+ */   
 #include<iostream>
 using namespace std;
 class complex
