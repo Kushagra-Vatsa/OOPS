@@ -1,7 +1,7 @@
 /* 
 Properties of Friend Function :
     Not in scope of class
-    It cannot be called from object of the class
+    It cannot be called from object of the class like o1.sumComplex
     Can be invoked directly without the help of any object 
     Usually contains objects as arguments 
     Can be declared inside public or private parts
