@@ -6,7 +6,14 @@ Properties of Friend Function :
     Usually contains objects as arguments 
     Can be declared inside public or private parts
     It cannot access the members directly by their names and need need objects  
+    
+    
+    Syntax of friend function : 
+    friend returnType functionName(arguments);
+    
+    
  */   
+
 #include<iostream>
 using namespace std;
 class complex
